@@ -1,0 +1,16 @@
+.nav-item:hover {
+  background-color: red;
+  color: white;
+}
+
+.nav-item {
+  margin: auto;
+}
+
+.navbar {
+  padding: 0;
+}
+
+.navbar-collapse {
+  height: 4rem;
+}
