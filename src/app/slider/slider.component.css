@@ -1,0 +1,7 @@
+.carousel-inner img, .carousel {
+    display:block;
+    max-width: 1920px;
+    max-height: 420px;
+    width: auto;
+    height: auto;
+  }
